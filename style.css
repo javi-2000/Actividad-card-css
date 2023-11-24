@@ -1,0 +1,26 @@
+article{
+    width: 250px;
+    border: 1px solid grey;
+}
+
+img{
+    width: 250px;
+}
+
+div{
+    padding: 10px;
+    border: 1px solid grey;
+}
+
+h2{
+    margin-top: 0px;
+}
+.sin-borde{
+    border: none;
+    padding: 10px;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
